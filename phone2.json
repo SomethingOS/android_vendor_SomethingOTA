@@ -1,12 +1,12 @@
 {
-  "response": [
-    {
-      "timestamp": "1712932047",
-      "filename": "SomethingOS-14-phone2-20240412.zip",
-      "id": "7d3958ce613dd3c9cc8ff5cccf336f4b",
-      "size": "2378824086",
-      "url": "https://sourceforge.net/projects/somethingos/files/phone2/SomethingOS-14-phone2-20240412.zip/download",
-      "version": "1.2"
-    }
-  ]
+    "response": [
+        {
+            "timestamp": "1716830235",
+            "filename": "SomethingOS-14-phone2-20240528.zip",
+            "id": "e0df0ef7f143c428022ebb37d5746da3",
+            "size": "2385789125",
+            "url": "https://sourceforge.net/projects/somethingos/files/phone2/SomethingOS-14-phone2-20240528.zip/download",
+            "version": "1.3"
+        }
+    ]
 }
