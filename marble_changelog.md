@@ -1,4 +1,4 @@
-## Changelog - SomethingOS - V1.2 - 21/05/2024
-- April Security Patch 
-- Updated to latest Google gki kernel image 
-- Adjusted status bar end and start padding
+## Changelog - SomethingOS - V1.3 - 02/06/2024
+- May Security Patch 
+- fixed play integrity
+- added back basic call recorder and viper
