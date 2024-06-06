@@ -1,4 +1,4 @@
-# SomethingOS 1.3 - Changelog
+# SomethingOS 1.3
 
 ### Additions
 - May Security patch
@@ -20,7 +20,7 @@
 - Signed build
 - Dropped Hide QS feature (Using Sensitive tiles instead)
 
-# SomethingOS 1.2 - Changelog
+# SomethingOS 1.2
 
 ### Additions
 - April Security Patch
@@ -37,7 +37,7 @@
 - Fixed an issue when screen won't turn on after Doze
 - Fixed an issue when Media keep showing after music stopped
 
-# SomethingOS 1.1 - Changelog
+# SomethingOS 1.1
 
 ### Additions
 - March Security update
