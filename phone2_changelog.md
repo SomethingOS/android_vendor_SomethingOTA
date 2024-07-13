@@ -1,3 +1,7 @@
+## Changelog - SomethingOS-14-phone2-20240713
+- SomethingOS 1.4
+- DT Sources updated from AOSPA
+
 ## Changelog - SomethingOS-14-phone2-20240412
 - April Security Patch
 - SomethingOS Settings Card Style
