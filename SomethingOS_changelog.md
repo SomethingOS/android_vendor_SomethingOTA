@@ -1,3 +1,19 @@
+# SomethingOS 1.4
+
+### Additions
+- July Security Patch
+- Added Brightness slider Settings
+- Added A15-like Settings design
+- Added advanced reboot Settings
+- Updated Lawnchair to ea7be89
+
+### Fixes
+- Fix crash with Lawnchair in certain profiles
+
+### Removals
+- Removed Paranoid Wallpapers
+- Removed YouTube from System apps (Useful for advanced users)
+
 # SomethingOS 1.3
 
 ### Additions
