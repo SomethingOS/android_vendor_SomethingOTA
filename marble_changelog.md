@@ -1,7 +1,2 @@
-## Changelog - SomethingOS - V1.3 - 02/06/2024
-- Fixed inconsistent behaviour with Dolby 
-- Fix default action on Double Tap Fingerprint 
-- Updated Kernel 
-- Improved stability and system performance
-- HOTFIX userdebug >>>> user build to fix banking apps
-- Fixed games lagging
+## Changelog - SomethingOS - V1.4 - 18/07/2024
+- Updated Kernel to 5.10.214-android12-9-03712-g3889296829f1-ab12057275
