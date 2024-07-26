@@ -1,3 +1,2 @@
- ## Changelog - SomethingOS-14-vayu - 10/06/2024
-- First build
+## Changelog - SomethingOS - V1.4 - 18/07/2024
 - Source upstream
