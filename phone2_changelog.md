@@ -1,3 +1,8 @@
+## Changelog - SomethingOS-14-phone2-20240810
+- SomethingOS 1.5
+- DT Sources updated from AOSPA
+- Fix bluetooth audio issue
+
 ## Changelog - SomethingOS-14-phone2-20240713
 - SomethingOS 1.4
 - DT Sources updated from AOSPA
