@@ -1,3 +1,25 @@
+# SomethingOS 1.5
+
+### Additions
+- Updated Bootanimations
+- New "Fox" Boot animation
+- New SomethingOS Settings icon
+- New SomethingOS Settings animation
+- Rewrite PropImitationHooks
+- Enabled Android 15 Predictive Back Gesture
+- Added SomethingOS recovery (can now sideload Kernels/Magisk/Mods)
+- Added Flashlight strength (Requires a supported device)
+- Added Advanced Freeform Window
+- Bring back previous implementation of advanced reboot menu
+- Added Stock, Round, Square and Mixed QS Styles
+- Added ability to disable/enable Play Integrity spoof
+
+### Fixes
+- Fixed title height in Settings
+
+### Changes
+- Default build as user instead of userdebug
+
 # SomethingOS 1.4
 
 ### Additions
