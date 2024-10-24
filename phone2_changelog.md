@@ -1,3 +1,6 @@
+## Changelog - SomethingOS-14-phone2-20241024
+- Fixed IntentResolver missing
+
 ## Changelog - SomethingOS-14-phone2-20241023
 - SomethingOS 1.6
 - DT Sources updated from AOSPA
