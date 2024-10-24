@@ -1,3 +1,7 @@
+## Changelog - SomethingOS-14-phone2-20241023
+- SomethingOS 1.6
+- DT Sources updated from AOSPA
+
 ## Changelog - SomethingOS-14-phone2-20240812
 - Fix random reboot caused by screenshot or autofill
 - Add support for flashlight strength tile
